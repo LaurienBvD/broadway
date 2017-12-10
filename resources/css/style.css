@@ -36,3 +36,14 @@ p{
 .titel-midway h3{
   color: white;
 }
+
+.footer p{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer a{
+  color: white;
+}
